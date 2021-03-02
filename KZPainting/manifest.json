@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Arranged by Yuanda Liu, Paintings by Kristoffer Zetterstrand.",
+    "name": "KSPaintings",
+    "uuid": "20f57da6-c698-4430-b34c-10e5934a9a60",
+    "version": [2,0,0],
+    "min_engine_version": [1,16,0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "58d6dff0-2903-4330-beac-9f5ebb0f0257",
+      "version": [2,0,0]
+    }
+  ]
+}
