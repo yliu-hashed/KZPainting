@@ -1,4 +1,5 @@
-[![Github release](https://img.shields.io/github/downloads/YuandaLiu-Hashed/KZPainting/total.svg)](https://github.com/YuandaLiu-Hashed/MCBE-Scott-CPU/releases)
+[![Github release](https://img.shields.io/github/downloads/YuandaLiu-Hashed/KZPainting/total.svg)](https://github.com/YuandaLiu-Hashed/KZPainting/releases)
+[![Github release](https://img.shields.io/github/repo-size/YuandaLiu-Hashed/KZPainting.svg?color=blue)](https://github.com/YuandaLiu-Hashed/KZPainting/releases)
 
 # KZPainting
 Re-texturize Minecraft's painting to match the original painting of Kristoffer Zetterstrand in full resolution.
